@@ -20,11 +20,9 @@
 - ### Run the following Commands in `SSH` Window At VM Instances
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Google-Kubernetes-Engine-Pipeline-using-Cloud-Build-GSP1077/refs/heads/main/qwiklab_explorers_gsp1077.sh
+curl -LO raw.githubusercontent.com/Titash-shil/-UPDATED-Deploy-a-Hugo-Website-with-Cloud-Build-and-Firebase-Pipeline-GSP747/refs/heads/main/qwiklab_explorers_task-1.sh
 
-sudo chmod +x *.sh
-
-./*.sh
+source qwiklab_explorers_task-1.sh
 ```
 
 - ***Now Check the score for Task 2 & then go ahead with next Commands.***
