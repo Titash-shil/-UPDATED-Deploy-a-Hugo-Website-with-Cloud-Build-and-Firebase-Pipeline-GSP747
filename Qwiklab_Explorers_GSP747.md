@@ -37,9 +37,9 @@ source qwiklab_explorers_task-2.sh
 [![Screenshot-2024-06-29-at-2-47-57-AM.png](https://i.postimg.cc/0NR7rmsb/Screenshot-2024-06-29-at-2-47-57-AM.png)](https://postimg.cc/k2s2p2Dm)
 
 ```bash
-curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/refs/heads/master/Deploy%20a%20Hugo%20Website%20with%20Cloud%20Build%20and%20Firebase%20Pipeline/task3.sh
+curl -LO raw.githubusercontent.com/Titash-shil/-UPDATED-Deploy-a-Hugo-Website-with-Cloud-Build-and-Firebase-Pipeline-GSP747/refs/heads/main/qwiklab_explorers_task-3.sh
 
-source task3.sh
+source qwiklab_explorers_task-3.sh
 ```
 
 #
